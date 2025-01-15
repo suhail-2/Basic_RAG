@@ -1,0 +1,7 @@
+python-dotenv
+langchain-groq
+pip_system_certs
+python-certifi-win32
+langchain_community
+pypdf2
+faiss-cpu
